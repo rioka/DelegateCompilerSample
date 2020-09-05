@@ -14,6 +14,6 @@ namespace DelegateCompilerSample.Core
       get { return _lines; }
     }
 
-    protected ICollection<OrderLine> _lines { get; private set; }
+    protected virtual ICollection<OrderLine> _lines { get; private set; }
   }
 }
