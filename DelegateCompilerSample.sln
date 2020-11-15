@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateCompilerSample.Use0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateCompilerSample.Use0_28_0", "DelegateCompilerSample.Use0_28_0\DelegateCompilerSample.Use0_28_0.csproj", "{74665D79-1885-434E-8669-F1FD92EEFCB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateCompilerSample.Use0_28_2", "DelegateCompilerSample.Use0_28_2\DelegateCompilerSample.Use0_28_2.csproj", "{3E2F579C-6040-4F3E-8DCD-5A85073FA933}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Using v0.28.2", "Using v0.28.2", "{81BCD284-FCBA-4065-8B06-E6FC7B154AE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{74665D79-1885-434E-8669-F1FD92EEFCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74665D79-1885-434E-8669-F1FD92EEFCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74665D79-1885-434E-8669-F1FD92EEFCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2F579C-6040-4F3E-8DCD-5A85073FA933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2F579C-6040-4F3E-8DCD-5A85073FA933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2F579C-6040-4F3E-8DCD-5A85073FA933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2F579C-6040-4F3E-8DCD-5A85073FA933}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,5 +49,6 @@ Global
 		{7F344D5F-9660-4871-9C34-EDE4A0177AB0} = {F689A004-B54E-44E8-943E-8F1F0B432DC6}
 		{86A11F93-D80A-4A39-BB38-900E6EC09DED} = {611E1582-8E1F-4327-8C9E-87A1D8EAE96C}
 		{74665D79-1885-434E-8669-F1FD92EEFCB4} = {027FA770-F624-49DA-969A-17076E2E3CCB}
+		{3E2F579C-6040-4F3E-8DCD-5A85073FA933} = {81BCD284-FCBA-4065-8B06-E6FC7B154AE8}
 	EndGlobalSection
 EndGlobal
